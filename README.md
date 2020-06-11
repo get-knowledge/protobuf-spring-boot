@@ -11,5 +11,3 @@
 5. This is a next generation framework that will overtake REST APIs / RESTful architecture in near future. 
 
 6. And also you will learn how grpc is better than rest.
-
-This gRPC intro tutorial gives better understanding of how to implement microservices using gRPC and protobuf
